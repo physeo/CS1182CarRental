@@ -1,0 +1,9 @@
+C:\MyPrograms\CarRental\CarRental\bin\Debug\CarRental.exe.config
+C:\MyPrograms\CarRental\CarRental\bin\Debug\CarRental.exe
+C:\MyPrograms\CarRental\CarRental\bin\Debug\CarRental.pdb
+C:\MyPrograms\CarRental\CarRental\obj\Debug\CarRental.csprojResolveAssemblyReference.cache
+C:\MyPrograms\CarRental\CarRental\obj\Debug\CarRental.Form1.resources
+C:\MyPrograms\CarRental\CarRental\obj\Debug\CarRental.Properties.Resources.resources
+C:\MyPrograms\CarRental\CarRental\obj\Debug\CarRental.csproj.GenerateResource.Cache
+C:\MyPrograms\CarRental\CarRental\obj\Debug\CarRental.exe
+C:\MyPrograms\CarRental\CarRental\obj\Debug\CarRental.pdb
